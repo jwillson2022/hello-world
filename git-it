@@ -1,0 +1,11 @@
+
+
+mkdir hello-world
+
+cd hello-world
+
+git init
+
+git status
+
+git add readme.txt
